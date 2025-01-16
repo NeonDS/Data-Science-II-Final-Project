@@ -1,1 +1,2 @@
 # Data-Science-II-Final-Project
+This was my final project for my Data Science II Class from my undergraduate degree at Shippensburg University of Pennsylvania. The project focuses on analyzing the Data Science job market of 2023. The project was a 2 person effort, with my partner focusing on the EDA side of the project while I did the modeling. This project was uploaded with permission from my partner.
